@@ -1,9 +1,9 @@
                                                                     SALARY PREDICTION
  
-    [Download Project Presentation (PPT)](Employee_Salary_prediction.pptx)
+  [Download Project Presentation (PPT)](Employee_Salary_prediction.pptx)
+ 
 
-
-  # Employee Salary Prediction using ML
+# Employee Salary Prediction using ML
 This project predicts employee salaries using a Random Forest Regression model. It covers data preprocessing, model training, tuning, evaluation, and deployment using Streamlit.
 
 ## Problem Statement
